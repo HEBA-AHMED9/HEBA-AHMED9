@@ -33,7 +33,8 @@
    <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=50% height=95px>
          
   ### 👩🏻‍💻 Current Learning:
-   <img alt="Dart" src="https://img.shields.io/badge/Dart-Language%20-red" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%20-yellow" />
+   <img alt="Dart" src="https://img.shields.io/badge/Dart-Language%20-red" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%20-yellow" /> ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
     
     
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=70% height=95px>
